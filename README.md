@@ -6,9 +6,10 @@ This repository presents a successful classification project using the Oxford 10
 
 ## Classification Results:
 
-- **Training Accuracy:** XX%
-- **Validation Accuracy:** XX%
-- **Loss:** X.XX
+- **Training Accuracy:** 62%
+- **Validation Accuracy:** 25%
+- **Loss:** 1.34
+- **This is on 5 epoch only**
 
 ## Methodology:
 
